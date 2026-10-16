@@ -6,4 +6,4 @@
 - Set pieces: the DeLorean, the moon bike, the mothership or the park jeep picks people up; 88 mph: when a time traveller's session compacts its context they vanish in two lines of fire and come back with OUTATIME; Indy shoots first; ten transitions built on the films.
 - Install: Stevie Clawdberg ships with Clawd Clash 3.4.0 and later (`brew tap rodclemen/tap && brew install --cask clawd-clash`, then Settings → Universe → Stevie Clawdberg).
 - The app, its source, docs and full history: https://github.com/rodclemen/clawd-clash
-- The other universes: Star Clawds, Marvelous Clawds, Detective Clawds, Doctor Clawd and The Clawd Files, and Clawd Royale, which puts them all in one scene.
+- The other universes: Star Clawds, Marvelous Clawds, Detective Clawds, Doctor Clawd, The Clawd Files and Clawd of the Rings, and Clawd Royale, which puts them all in one scene.
