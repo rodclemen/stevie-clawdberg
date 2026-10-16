@@ -149,7 +149,7 @@ The window can show the same view, and **Random** location moves the window some
 
 Stevie Clawdberg is part of **[Clawd Clash](https://github.com/rodclemen/clawd-clash)**, one app with multiple universes. It needs macOS 13+ and at least one of the [AIs and harnesses it supports](https://github.com/rodclemen/clawd-clash#supported-ais-and-harnesses).
 
-Stevie Clawdberg isn't released yet. When it is, it comes with the next Clawd Clash release:
+It comes with Clawd Clash 3.4.0 and later. With Homebrew:
 
 ```sh
 brew tap rodclemen/tap
@@ -157,7 +157,7 @@ brew trust rodclemen/tap      # newer Homebrew asks you to trust a third-party t
 brew install --cask clawd-clash
 ```
 
-Then pick **Settings → Universe → Stevie Clawdberg**. Or download the zip from [Clawd Clash's releases](https://github.com/rodclemen/clawd-clash/releases), unzip it and drag **Clawd Clash** to Applications.
+Then pick **Settings → Universe → Stevie Clawdberg** (already have Clawd Clash? `brew upgrade --cask clawd-clash`). Or download the zip from [Clawd Clash's releases](https://github.com/rodclemen/clawd-clash/releases), unzip it and drag **Clawd Clash** to Applications.
 
 Everything else (how it works, the settings, uninstalling, the source and contributing) lives in the **[Clawd Clash repo](https://github.com/rodclemen/clawd-clash)**.
 

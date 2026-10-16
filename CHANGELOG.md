@@ -2,7 +2,7 @@
 
 The changes you'd notice in the Stevie Clawdberg universe, newest first. The full, detailed history (every fix, every version) lives in [Clawd Clash](https://github.com/rodclemen/clawd-clash).
 
-## Coming in the next Clawd Clash release
+## Clawd Clash 3.4.0 (2026-10-16)
 
 - **A new universe.** Stevie Clawdberg joins Star Clawds, Marvelous Clawds, Detective Clawds, Doctor Clawd and The Clawd Files: pick it in **Settings → Universe**, or in the screen saver's Options.
 - **117 characters from nine films.** Indiana Bones knocking his own hat off with his whip, Marty McFry fighting with his guitar, Doc Brawn in his brainwave analyser steering a remote-controlled DeLorean, E.Clawd and his glowing finger, the Goonies (Chunk's Truffle Shuffle, Data's Pinchers of Peril), Jurassic Park's people (Muldune's *"Clever girl…"*), the Jaws crew, the Close Encounters family, Peter Panning and the Lost Boys. Facing them, Bellock and Mola Ramm, Biff in every decade (Mad Dog Tannin's *"Dance! Come on, runt!"*), the gremlins, Bruise the Shark, the Fratellys, T. Wrecks and the raptors, Captain Clawk and his crew. HEM turns up in a fedora with a bullwhip.

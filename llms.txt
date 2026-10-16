@@ -4,6 +4,6 @@
 
 - Stevie Clawdberg is the blockbuster parody universe of Clawd Clash, from nine films (Jaws, Close Encounters, Indiana Jones, E.T., Hook, Jurassic Park, Gremlins, The Goonies, Back to the Future): 54 villains and 63 heroes (Indiana Bones, Marty McFry, Doc Brawn, E.Clawd, the Goonies, Alan Grand, Chief Broody, Roy Neery, Peter Panning, René Bellock, Mola Ramm, Biff Tannin, the gremlins, Bruise the Shark, T. Wrecks, Captain Clawk and more) and 23 places (Hill Valley in 1955 and 1885, Amity Island, Kingston Falls, the moonlit hill, the Goondocks, the idol temple, the park gates, Devils Tower, Neverland, the Jolly Roger and more).
 - Set pieces: the DeLorean, the moon bike, the mothership or the park jeep picks people up; 88 mph: when a time traveller's session compacts its context they vanish in two lines of fire and come back with OUTATIME; Indy shoots first; ten transitions built on the films.
-- Install: Stevie Clawdberg ships with Clawd Clash from its next release (`brew tap rodclemen/tap && brew install --cask clawd-clash`, then Settings → Universe → Stevie Clawdberg).
+- Install: Stevie Clawdberg ships with Clawd Clash 3.4.0 and later (`brew tap rodclemen/tap && brew install --cask clawd-clash`, then Settings → Universe → Stevie Clawdberg).
 - The app, its source, docs and full history: https://github.com/rodclemen/clawd-clash
 - The other universes: Star Clawds, Marvelous Clawds, Detective Clawds, Doctor Clawd and The Clawd Files, and Clawd Royale, which puts them all in one scene.
