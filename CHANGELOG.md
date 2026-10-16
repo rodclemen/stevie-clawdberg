@@ -2,6 +2,10 @@
 
 The changes you'd notice in the Stevie Clawdberg universe, newest first. The full, detailed history (every fix, every version) lives in [Clawd Clash](https://github.com/rodclemen/clawd-clash).
 
+## 2026-10-17
+
+- **The trailer plays for everyone.** The video at the top of this page only played for people signed in to GitHub. It's uploaded again.
+
 ## Clawd Clash 3.4.0 (2026-10-16)
 
 - **A new universe.** Stevie Clawdberg joins Star Clawds, Marvelous Clawds, Detective Clawds, Doctor Clawd and The Clawd Files: pick it in **Settings → Universe**, or in the screen saver's Options.
