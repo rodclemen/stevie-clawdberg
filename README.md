@@ -17,7 +17,7 @@
   <a href="https://github.com/rodclemen/clawd-clash"><img src="https://img.shields.io/badge/part%20of-Clawd%20Clash-8A2BE2" alt="Part of Clawd Clash"></a>
 </p>
 
-VIDEO_URL_PLACEHOLDER
+https://github.com/user-attachments/assets/19ce502b-a8de-41ef-9a37-3b16bc585722
 
 <p align="center"><sub>🔊 <b>Click the speaker in the player for sound</b>: GitHub starts videos muted. Full 1080p version: <a href="promo/stevie-clawdberg-promo.mp4">promo/stevie-clawdberg-promo.mp4</a></sub></p>
 
